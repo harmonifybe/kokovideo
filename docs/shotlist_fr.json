@@ -1,0 +1,101 @@
+{
+ "project": "kokovideo",
+ "title": "Les Couleurs en Francais - 90s kids lesson (MiniMax H3, French only)",
+ "target": {
+  "total_seconds": 90,
+  "shots": 9,
+  "shot_seconds": 10,
+  "resolution": "480p",
+  "fps": 24,
+  "aspect_ratio": "16:9"
+ },
+ "generation": {
+  "provider": "wavespeed",
+  "model": "wavespeed-ai/minimax-h3/image-to-video",
+  "resolution": "480p",
+  "duration": 10,
+  "notes": "No aspect_ratio parameter exists for this endpoint: the output canvas follows the input image AR. All storyboard_frames_hd frames are 1280x720 = exactly 16:9."
+ },
+ "audio_plan": {
+  "model_audio": "native H3 stereo audio, directed by a French 'Audio:' line: light kids instrumental music + soft ambience, explicit no-speech directive in every prompt",
+  "narration": "single French (fr-FR) TTS narrator voice for all 9 shots, French only",
+  "mix": "model ambience bed at low level under the French narrator"
+ },
+ "style_lock": "Style verrouille : cartoon 3D brillant pour enfants d'age prescolaire (esprit Pixar), couleurs primaires saturees, lumiere douce, formes arrondies, grands yeux sympathiques. Conserve EXACTEMENT tout texte deja present a l'ecran et n'ajoute aucun nouveau texte, aucun sous-titre, aucun filigrane. Mouvements de camera lents et doux, jamais de camera tremblante, aucune coupe, aucun morphing.",
+ "audio_directive_fr": "Audio : musique instrumentale enfantine legere et joyeuse, ambiance naturelle tres douce. Aucune parole, aucune voix humaine, aucune narration, aucun chant, aucune parole generee.",
+ "shots": [
+  {
+   "id": 1,
+   "frame": "storyboard_frames_hd/frame_01_r1c1.png",
+   "beat": "0-10s",
+   "panel": "Classe : garcon + chiot, bulle 'Bonjour!', tableau 'Les Couleurs en francais!'",
+   "narration": "Bonjour les petits ! Aujourd'hui, on apprend les couleurs en francais ! Regarde bien, on commence !",
+   "prompt": "Dans une salle de classe de dessin anime 3D pour enfants. D'abord : Le petit garcon sourit et fait un grand signe de la main vers la camera, ses yeux clignent doucement. Ensuite : Il pointe le tableau du doigt avec enthousiasme pendant que le chiot remue la queue, aboie joyeusement et s'assoit a cote de lui. L'affiche alphabet et le globe restent parfaitement immobiles. Camera : tres lent travelling avant vers le garcon et le tableau, puis camera fixe. Conserve EXACTEMENT le texte 'Bonjour!' dans la bulle et le titre du tableau tel quel, sans ajouter aucun autre texte. Audio : musique instrumentale enfantine legere et joyeuse, ambiance de classe tres douce. Aucune parole, aucune voix humaine, aucune narration, aucun chant."
+  },
+  {
+   "id": 2,
+   "frame": "storyboard_frames_hd/frame_02_r1c2.png",
+   "beat": "10-20s",
+   "panel": "Mot 'Rouge' - pommes rouges, petite voiture rouge, coccinelles, garcon qui pointe",
+   "narration": "Rouge ! C'est la couleur des pommes bien croquees, de la petite voiture et des coccinelles.",
+   "prompt": "Plan couleur 'Rouge'. D'abord : Le garcon pointe lentement les pommes du doigt, les pommes rouges et brillantes se balancent doucement. Ensuite : La petite voiture rouge rebondit legerement et ses roues tournent, deux coccinelles rampent sur les feuilles vertes. Camera : lent glissement lateral vers la droite, puis camera fixe. Conserve EXACTEMENT le grand mot 'Rouge' a l'ecran et n'ajoute aucun autre texte. Audio : musique instrumentale enfantine gaie, petits effets sonores ludiques. Aucune parole, aucune voix humaine, aucune narration, aucun chant."
+  },
+  {
+   "id": 3,
+   "frame": "storyboard_frames_hd/frame_03_r1c3.png",
+   "beat": "20-30s",
+   "panel": "Mot 'Jaune' - soleil, tournesols, canetons, abeille",
+   "narration": "Jaune ! Comme le soleil qui brille, les grands tournesols et les petits canetons.",
+   "prompt": "Plan couleur 'Jaune'. D'abord : Le grand soleil souriant pulse chaudement et diffuse de doux rayons de lumiere. Ensuite : Les tournesols se balancent dans une legere brise, les canetons marchent en file en se dandinement et une abeille tournoie autour d'eux. Camera : tres lent travelling avant, puis camera fixe. Conserve EXACTEMENT le grand mot 'Jaune' a l'ecran et n'ajoute aucun autre texte. Audio : musique instrumentale enfantine ensoleillee, ambiance de jardin. Aucune parole, aucune voix humaine, aucune narration, aucun chant."
+  },
+  {
+   "id": 4,
+   "frame": "storyboard_frames_hd/frame_04_r2c1.png",
+   "beat": "30-40s",
+   "panel": "Mot 'Vert' - grenouilles souriantes sur un nenuphar, tortue, panneau 'La nature c'est magique'",
+   "narration": "Vert ! Les grenouilles, les feuilles et la tortue sont tout verts.",
+   "prompt": "Plan couleur 'Vert'. D'abord : La grande grenouille verte sourit, cligne des yeux et saute legerement sur son nenuphar, la petite grenouille l'imite. Ensuite : La tortue tourne lentement la tete, des ondulations se propagent sur l'eau et les feuilles ondulent doucement. Camera : tres lent travelling avant, puis camera fixe. Conserve EXACTEMENT le mot 'Vert' et le panneau en bois tel quel, sans ajouter aucun autre texte. Audio : musique instrumentale enfantine douce, ambiance d'etang avec grenouilles discretes. Aucune parole, aucune voix humaine, aucune narration, aucun chant."
+  },
+  {
+   "id": 5,
+   "frame": "storyboard_frames_hd/frame_05_r2c2.png",
+   "beat": "40-50s",
+   "panel": "Mot 'Bleu' - baleine qui souffle, oiseaux bleus, ballon bleu, voilier, panneau 'Un monde plus doux'",
+   "narration": "Bleu ! La mer, la grande baleine et le ciel sont bleus eux aussi.",
+   "prompt": "Plan couleur 'Bleu'. D'abord : La baleine remonte a la surface et souffle un jet d'eau en arc scintillant. Ensuite : Les deux oiseaux bleus voltigent autour du ballon bleu qui se balance, pendant que le petit voilier glisse doucement sur les vagues. Camera : tres lent travelling avant, puis camera fixe. Conserve EXACTEMENT le mot 'Bleu' et le petit panneau tels quels, sans ajouter aucun autre texte. Audio : musique instrumentale enfantine apaisante, ambiance de mer et de vent leger. Aucune parole, aucune voix humaine, aucune narration, aucun chant."
+  },
+  {
+   "id": 6,
+   "frame": "storyboard_frames_hd/frame_06_r2c3.png",
+   "beat": "50-60s",
+   "panel": "Mot 'Violet' - papillon violet, champ de lavande, violettes, panier de raisins",
+   "narration": "Violet ! Les papillons et les jolies fleurs violettes sont magnifiques.",
+   "prompt": "Plan couleur 'Violet'. D'abord : Le grand papillon violet ouvre et referme lentement ses ailes puis s'envole doucement vers le haut. Ensuite : Les tiges de lavande ondulent, de petites etincelles derivent autour des fleurs et quelques grains de raisin roulent dans le panier. Camera : tres lent travelling avant, puis camera fixe. Conserve EXACTEMENT le mot 'Violet' et les textes encadres tels quels, sans ajouter aucun autre texte. Audio : musique instrumentale enfantine feerique et legere. Aucune parole, aucune voix humaine, aucune narration, aucun chant."
+  },
+  {
+   "id": 7,
+   "frame": "storyboard_frames_hd/frame_07_r3c1.png",
+   "beat": "60-70s",
+   "panel": "Mot 'Orange' - renard, citrouilles, carottes, poisson-clown, panneau 'De la joie dans chaque couleur'",
+   "narration": "Orange ! Le petit renard, la citrouille et les carottes sont orange.",
+   "prompt": "Plan couleur 'Orange'. D'abord : Le petit renard incline la tete et sa queue touffue balaie l'air, des feuilles d'automne tourbillonnent en passant. Ensuite : Le poisson-clown nage en cercle dans son bocal pendant que la citrouille reste immobile dans les feuilles. Camera : tres lent travelling avant, puis camera fixe. Conserve EXACTEMENT le mot 'Orange' et le panneau en bois tels quels, sans ajouter aucun autre texte. Audio : musique instrumentale enfantine chaleureuse, ambiance d'automne douce. Aucune parole, aucune voix humaine, aucune narration, aucun chant."
+  },
+  {
+   "id": 8,
+   "frame": "storyboard_frames_hd/frame_08_r3c2.png",
+   "beat": "70-80s",
+   "panel": "Quiz : 'Quelle est cette couleur ?' tache de peinture violette, boutons Rouge / Violet / Vert",
+   "narration": "Attends... quelle est cette couleur ? ... Violet ! Bravo, c'est bien ca !",
+   "prompt": "Plan quiz interactif. D'abord : La grande tache de peinture violette tremble et degouline de facon ludique, les points d'interrogation montent et descendent doucement. Ensuite : Le bouton 'Violet' ressort et brille brievement comme s'il venait d'etre appuye, alors que les deux autres boutons restent parfaitement immobiles. Camera : presque fixe, minuscule travelling avant. Conserve EXACTEMENT tous les textes des boutons et la question tels quels, sans ajouter aucun autre texte. Audio : petits effets sonores ludiques et musique enfantine discrete. Aucune parole, aucune voix humaine, aucune narration, aucun chant."
+  },
+  {
+   "id": 9,
+   "frame": "storyboard_frames_hd/frame_09_r3c3.png",
+   "beat": "80-90s",
+   "panel": "Outro : garcon et chiot qui applaudissent, confettis, arc-en-ciel, panneau 'Apprendre aujourd'hui un monde plus colore demain'",
+   "narration": "Bravo ! Maintenant tu connais toutes les couleurs. A bientot les petits, et continue d'apprendre en t'amusant !",
+   "prompt": "Plan final joyeux. D'abord : Le garcon et le chiot sautent et applaudissent, bras et pattes en l'air. Ensuite : Des confettis jaillissent vers le haut puis retombent en flottant, l'arc-en-ciel brille intensement derriere eux. Camera : lent travelling arriere. Conserve EXACTEMENT le texte du panneau tel quel, sans ajouter aucun autre texte. Audio : musique instrumentale enfantine triomphale et festive. Aucune parole, aucune voix humaine, aucune narration, aucun chant."
+  }
+ ],
+ "negative_fr": "Contraintes negatives, a respecter absolument : n'ajoute AUCUN nouveau texte a l'ecran, aucun horodatage, aucun compteur de temps, aucun minuteur, aucun chiffre de duree, aucun filigrane, aucun logo, aucun sous-titre, aucune icone d'interface, aucun symbole de haut-parleur ou de volume, aucun bouton de lecture, aucune fleche d'interface. Ne modifie pas et n'efface pas le texte deja present dans l'image de depart : garde-le identique, net, parfaitement lisible et immobile."
+}

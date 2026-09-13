@@ -1,0 +1,245 @@
+{
+ "shot01": {
+  "bytes": 2486518,
+  "file": "/Users/jarvis/projects/kokovideo/video/clips_h3/shot01.mp4",
+  "id": "5cec7bc40c324af78d403a21b3573a83",
+  "inference_ms": 77804,
+  "output": "https://d2h7xmz5gqybh9.cloudfront.net/output/f3d5f5a6-aa1a-47a2-bd67-df65ce1c1ba6-u1_c75fafca-dd42-4f4e-9e4f-75bbac21a0fc.mp4",
+  "probe": [
+   {
+    "codec_name": "h264",
+    "codec_type": "video",
+    "height": 480,
+    "nb_frames": "243",
+    "r_frame_rate": "24/1",
+    "width": 832
+   },
+   {
+    "channels": 2,
+    "codec_name": "aac",
+    "codec_type": "audio",
+    "nb_frames": "318",
+    "r_frame_rate": "0/0",
+    "sample_rate": "32000"
+   }
+  ],
+  "status": "completed",
+  "url": "https://api.wavespeed.ai/api/v3/predictions/5cec7bc40c324af78d403a21b3573a83/result"
+ },
+ "shot02": {
+  "bytes": 2434941,
+  "file": "/Users/jarvis/projects/kokovideo/video/clips_h3/shot02.mp4",
+  "id": "ca5c2305a25847d3b147ce8eb4af0d2a",
+  "inference_ms": 92530,
+  "output": "https://d2h7xmz5gqybh9.cloudfront.net/output/c7e990d1-f7ca-4120-82ab-7d360e346557-u2_777d701f-2b90-4394-8329-03ce57de2c87.mp4",
+  "probe": [
+   {
+    "codec_name": "h264",
+    "codec_type": "video",
+    "height": 480,
+    "nb_frames": "243",
+    "r_frame_rate": "24/1",
+    "width": 832
+   },
+   {
+    "channels": 2,
+    "codec_name": "aac",
+    "codec_type": "audio",
+    "nb_frames": "318",
+    "r_frame_rate": "0/0",
+    "sample_rate": "32000"
+   }
+  ],
+  "status": "completed",
+  "url": "https://api.wavespeed.ai/api/v3/predictions/ca5c2305a25847d3b147ce8eb4af0d2a/result"
+ },
+ "shot03": {
+  "bytes": 2837917,
+  "file": "/Users/jarvis/projects/kokovideo/video/clips_h3/shot03.mp4",
+  "id": "0fe3c49424234851b944b20285681c98",
+  "inference_ms": 59305,
+  "output": "https://d2h7xmz5gqybh9.cloudfront.net/output/f935c18f-69d6-4adb-b1e1-d55fe65d6a1e-u2_502ab969-afa9-43ac-b3fd-3bdbd5f3f70b.mp4",
+  "probe": [
+   {
+    "codec_name": "h264",
+    "codec_type": "video",
+    "height": 480,
+    "nb_frames": "243",
+    "r_frame_rate": "24/1",
+    "width": 832
+   },
+   {
+    "channels": 2,
+    "codec_name": "aac",
+    "codec_type": "audio",
+    "nb_frames": "318",
+    "r_frame_rate": "0/0",
+    "sample_rate": "32000"
+   }
+  ],
+  "status": "completed",
+  "url": "https://api.wavespeed.ai/api/v3/predictions/0fe3c49424234851b944b20285681c98/result"
+ },
+ "shot04": {
+  "bytes": 2067914,
+  "file": "/Users/jarvis/projects/kokovideo/video/clips_h3/shot04.mp4",
+  "id": "dc526c0bc62843ca8dc6d76b8c8f7492",
+  "inference_ms": 57699,
+  "output": "https://d2h7xmz5gqybh9.cloudfront.net/output/d1ba2f07-139e-4a81-b40b-c02f91f9e2d3-u1_66305be3-a987-44bb-858e-00937198e174.mp4",
+  "probe": [
+   {
+    "codec_name": "h264",
+    "codec_type": "video",
+    "height": 480,
+    "nb_frames": "243",
+    "r_frame_rate": "24/1",
+    "width": 832
+   },
+   {
+    "channels": 2,
+    "codec_name": "aac",
+    "codec_type": "audio",
+    "nb_frames": "318",
+    "r_frame_rate": "0/0",
+    "sample_rate": "32000"
+   }
+  ],
+  "status": "completed",
+  "url": "https://api.wavespeed.ai/api/v3/predictions/dc526c0bc62843ca8dc6d76b8c8f7492/result"
+ },
+ "shot05": {
+  "bytes": 2305229,
+  "file": "/Users/jarvis/projects/kokovideo/video/clips_h3/shot05.mp4",
+  "id": "c56bd9d4a35944179d1373752ecc40e6",
+  "inference_ms": 50683,
+  "output": "https://d2h7xmz5gqybh9.cloudfront.net/output/b184df4f-6709-4838-9dfc-8b672ffe35c6-u1_7c8d2d00-4636-4865-bf22-9ece24d01089.mp4",
+  "probe": [
+   {
+    "codec_name": "h264",
+    "codec_type": "video",
+    "height": 480,
+    "nb_frames": "243",
+    "r_frame_rate": "24/1",
+    "width": 832
+   },
+   {
+    "channels": 2,
+    "codec_name": "aac",
+    "codec_type": "audio",
+    "nb_frames": "318",
+    "r_frame_rate": "0/0",
+    "sample_rate": "32000"
+   }
+  ],
+  "status": "completed",
+  "url": "https://api.wavespeed.ai/api/v3/predictions/c56bd9d4a35944179d1373752ecc40e6/result"
+ },
+ "shot06": {
+  "bytes": 3515099,
+  "file": "/Users/jarvis/projects/kokovideo/video/clips_h3/shot06.mp4",
+  "id": "80f1ab2cec064c3bba7287fe6531d19b",
+  "inference_ms": 58976,
+  "output": "https://d2h7xmz5gqybh9.cloudfront.net/output/89b172da-f432-4671-abed-783566b3ac9d-u1_2bf00acb-e47e-48ec-89d7-8c22cf913346.mp4",
+  "probe": [
+   {
+    "codec_name": "h264",
+    "codec_type": "video",
+    "height": 480,
+    "nb_frames": "243",
+    "r_frame_rate": "24/1",
+    "width": 832
+   },
+   {
+    "channels": 2,
+    "codec_name": "aac",
+    "codec_type": "audio",
+    "nb_frames": "318",
+    "r_frame_rate": "0/0",
+    "sample_rate": "32000"
+   }
+  ],
+  "status": "completed",
+  "url": "https://api.wavespeed.ai/api/v3/predictions/80f1ab2cec064c3bba7287fe6531d19b/result"
+ },
+ "shot07": {
+  "bytes": 2618614,
+  "file": "/Users/jarvis/projects/kokovideo/video/clips_h3/shot07.mp4",
+  "id": "1a88a6c7f0bf4684969780e3f1a8f34e",
+  "inference_ms": 56643,
+  "output": "https://d2h7xmz5gqybh9.cloudfront.net/output/1f5c933b-2bdb-4a19-9b36-dc3e71364773-u2_ba122779-b442-4810-b046-4b34dc54c96e.mp4",
+  "probe": [
+   {
+    "codec_name": "h264",
+    "codec_type": "video",
+    "height": 480,
+    "nb_frames": "243",
+    "r_frame_rate": "24/1",
+    "width": 832
+   },
+   {
+    "channels": 2,
+    "codec_name": "aac",
+    "codec_type": "audio",
+    "nb_frames": "318",
+    "r_frame_rate": "0/0",
+    "sample_rate": "32000"
+   }
+  ],
+  "status": "completed",
+  "url": "https://api.wavespeed.ai/api/v3/predictions/1a88a6c7f0bf4684969780e3f1a8f34e/result"
+ },
+ "shot08": {
+  "bytes": 1631432,
+  "file": "/Users/jarvis/projects/kokovideo/video/clips_h3/shot08.mp4",
+  "id": "448559d9bc3a40d992c249f4d927fb94",
+  "inference_ms": 92275,
+  "output": "https://d2h7xmz5gqybh9.cloudfront.net/output/feda643b-67ac-419d-b67f-7fa8f6620f4c-u2_87d263ad-7ecd-4bce-a0f2-4d972a59b9c1.mp4",
+  "probe": [
+   {
+    "codec_name": "h264",
+    "codec_type": "video",
+    "height": 480,
+    "nb_frames": "243",
+    "r_frame_rate": "24/1",
+    "width": 832
+   },
+   {
+    "channels": 2,
+    "codec_name": "aac",
+    "codec_type": "audio",
+    "nb_frames": "318",
+    "r_frame_rate": "0/0",
+    "sample_rate": "32000"
+   }
+  ],
+  "status": "completed",
+  "url": "https://api.wavespeed.ai/api/v3/predictions/448559d9bc3a40d992c249f4d927fb94/result"
+ },
+ "shot09": {
+  "bytes": 3278147,
+  "file": "/Users/jarvis/projects/kokovideo/video/clips_h3/shot09.mp4",
+  "id": "5695ad165cc74d56bfad2cb56347d893",
+  "inference_ms": 60643,
+  "output": "https://d2h7xmz5gqybh9.cloudfront.net/output/c45ed296-3be5-48c1-a0d8-ea7f52a43b54-u1_fd2f3027-607c-4cdd-89af-d4c79f9d8b69.mp4",
+  "probe": [
+   {
+    "codec_name": "h264",
+    "codec_type": "video",
+    "height": 480,
+    "nb_frames": "243",
+    "r_frame_rate": "24/1",
+    "width": 832
+   },
+   {
+    "channels": 2,
+    "codec_name": "aac",
+    "codec_type": "audio",
+    "nb_frames": "318",
+    "r_frame_rate": "0/0",
+    "sample_rate": "32000"
+   }
+  ],
+  "status": "completed",
+  "url": "https://api.wavespeed.ai/api/v3/predictions/5695ad165cc74d56bfad2cb56347d893/result"
+ }
+}
