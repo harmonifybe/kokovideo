@@ -1,0 +1,65 @@
+{
+ "shot01": {
+  "status": "COMPLETED",
+  "gen": "AS5P0U3EuGDafblMfcXF_06JHVHcrNdO9SZlhkQ1r_C6-9OakbPUCfanvnBV_gYpjmJ1xIJx",
+  "url": "https://v15-kling.klingai.com/bs2/upload-ylab-stunt-sgp/f050ecc5-36f8-4612-836b-b912a83bf4bb-RQOnoG4kf6bN2KtHS_34nw-output.mp4?x-kcdn-pid=112372",
+  "file": "/Users/jarvis/projects/kokovideo/video/clips/shot01.mp4",
+  "bytes": 6818780
+ },
+ "shot02": {
+  "status": "COMPLETED",
+  "gen": "AaTNKVGwX7Ea4rRHhe85CVTnpYxm_H_g--99WuTZsVFRpDM026sgkpWDgW1S0LJxS2_iRX6e",
+  "url": "https://v15-kling.klingai.com/bs2/upload-ylab-stunt-sgp/0498c2e9-1ddd-4bd0-bbf8-5221c87cfadd-RQOnoG4kf6aWGFbRHeNLzg-output.mp4?x-kcdn-pid=112372",
+  "file": "/Users/jarvis/projects/kokovideo/video/clips/shot02.mp4",
+  "bytes": 7481997
+ },
+ "shot03": {
+  "status": "COMPLETED",
+  "gen": "AXYgjedt7eYGra4SkoaMOzbPNHWiNSNlqMfJFpHDDxJQwT68bHOd34PW2fFHKP4kVbsHvGtB",
+  "url": "https://v15-kling.klingai.com/bs2/upload-ylab-stunt-sgp/68e74e47-fcf3-4f4b-9858-96ed177a1259-1BPOtGmXUdNXPNsDc8FxUg-output.mp4?x-kcdn-pid=112372",
+  "file": "/Users/jarvis/projects/kokovideo/video/clips/shot03.mp4",
+  "bytes": 7549167
+ },
+ "shot04": {
+  "status": "COMPLETED",
+  "gen": "AdWvT2Bz59p_cpHKnCUBub42xsUKa5AAfV75OHlxKe2qSJg_dPE6fkt0ddPNi4XK6LKUXwMh",
+  "url": "https://v15-kling.klingai.com/bs2/upload-ylab-stunt-sgp/bce46de5-c750-45f1-9e5d-56fd90e45994-oFP6KPaJO66FR6lzD9BaUw-output.mp4?x-kcdn-pid=112372",
+  "file": "/Users/jarvis/projects/kokovideo/video/clips/shot04.mp4",
+  "bytes": 7033853
+ },
+ "shot05": {
+  "status": "COMPLETED",
+  "gen": "AXuDprpfx3UTTJ8UPnu8PCFbtMMsrOUfHW_3exAecPTH9xVIKUx4oQXf7hAKTQn2Ohq7CXCd",
+  "url": "https://v15-kling.klingai.com/bs2/upload-ylab-stunt-sgp/0aa81783-d307-4b36-815c-cc6bfab1b0ed-RQOnoG4kf6aezFEJo7szog-output.mp4?x-kcdn-pid=112372",
+  "file": "/Users/jarvis/projects/kokovideo/video/clips/shot05.mp4",
+  "bytes": 7640940
+ },
+ "shot06": {
+  "status": "COMPLETED",
+  "gen": "ARZdmmBw7PNxK_fTJpFMEuZt1sCl2qwz-8udWaU1tAi9bMgktUCGEdN_lutbNy6FSt0ICDgE",
+  "url": "https://v15-kling.klingai.com/bs2/upload-ylab-stunt-sgp/53f44c8a-171c-4004-ac14-69742c05db20-RQOnoG4kf6YeVbwUkQJZQw-output.mp4?x-kcdn-pid=112372",
+  "file": "/Users/jarvis/projects/kokovideo/video/clips/shot06.mp4",
+  "bytes": 7335812
+ },
+ "shot07": {
+  "status": "COMPLETED",
+  "gen": "AeM48EWe-ARkXNPP5yjlOddKVFSdnx5owAMHW-xDw_p8dRBFU8Yuqp8upj_O4kVXy_MdUCrH",
+  "url": "https://v15-kling.klingai.com/bs2/upload-ylab-stunt-sgp/d8f24df5-1852-4eda-b115-21d6c53c8d46-wh5TNaME1QYuZ0YQnLKJbg-output.mp4?x-kcdn-pid=112372",
+  "file": "/Users/jarvis/projects/kokovideo/video/clips/shot07.mp4",
+  "bytes": 7536806
+ },
+ "shot08": {
+  "status": "COMPLETED",
+  "gen": "ARTUr47AlHxbcHwgGXcCY784fwKX4Id08k27yQ42e_997IGGhcYg72xi3e3fANpHWlIVLVpA",
+  "url": "https://v15-kling.klingai.com/bs2/upload-ylab-stunt-sgp/efca34ee-6995-4604-aa48-b48c8f3e6f29-8wtwy-y9VOfY1t_krqSZMw-output.mp4?x-kcdn-pid=112372",
+  "file": "/Users/jarvis/projects/kokovideo/video/clips/shot08.mp4",
+  "bytes": 5077704
+ },
+ "shot09": {
+  "status": "COMPLETED",
+  "gen": "ASYApggO8iawwCrR9fbt5uRLPFiMa07KszLz7619tNShKgOu0P0QlZNucxTCG3M4WuXYhJeP",
+  "url": "https://v15-kling.klingai.com/bs2/upload-ylab-stunt-sgp/86b6c8fd-c0a6-452a-a5fb-4fbe00f30698-vZYdwOQtJFwNK0qaDOGZvg-output.mp4?x-kcdn-pid=112372",
+  "file": "/Users/jarvis/projects/kokovideo/video/clips/shot09.mp4",
+  "bytes": 8725606
+ }
+}

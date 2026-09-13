@@ -1,0 +1,101 @@
+{
+ "project": "kokovideo",
+ "title": "Les Couleurs en Francais - 60s kids lesson",
+ "target": {
+  "total_seconds": 60,
+  "shots": 9,
+  "shot_seconds": 6.667,
+  "resolution": "720p",
+  "fps": 24
+ },
+ "audio_plan": {
+  "kling": "enable_audio=true, ambience + gentle kids music ONLY, explicit no-speech directive in every prompt",
+  "narration": "single TTS narrator voice for all 9 shots, bilingual FR colour + EN meaning",
+  "mix": "ambience bed at low level under narrator"
+ },
+ "style_lock": "bright 3D-rendered preschool cartoon (Pixar-ish), saturated primary colours, soft daylight, rounded shapes, big friendly eyes; keep every existing on-screen text/board EXACTLY as it is, never add new text, no subtitles, no watermarks; 16:9; camera moves are slow and gentle (kids-safe, no shaky cam)",
+ "audio_directive": "Audio: light cheerful children's instrumental music and soft natural ambience only. No spoken words, no narration, no singing, no human voice.",
+ "shots": [
+  {
+   "id": 1,
+   "frame": "storyboard_frames/frame_01_r1c1.png",
+   "beat": "0-4s",
+   "panel": "Classroom: boy + puppy, speech bubble 'Bonjour!', board 'Les Couleurs en francais!'",
+   "narration": "Bonjour, little learners! Today, les couleurs - the colours in French!",
+   "motion": "The boy waves hello at the camera with a big smile, the puppy wags its tail and barks playfully, the classroom alphabet poster and globe stay in place. Gentle slow push-in towards the boy and the board.",
+   "narration_seconds": 5.496
+  },
+  {
+   "id": 2,
+   "frame": "storyboard_frames/frame_02_r1c2.png",
+   "beat": "4-8s",
+   "panel": "'Rouge / Rou-ge' - red apples, red toy car, ladybirds, boy pointing",
+   "narration": "Rouge... that's red! Apples, cars, ladybirds - all red!",
+   "motion": "The boy points at the apples, the glossy red apples gently rock, the little red toy car bounces and its wheels spin, two ladybirds crawl across the leaves. Slow sideways camera drift, keep the big word 'Rouge' on screen.",
+   "narration_seconds": 5.856
+  },
+  {
+   "id": 3,
+   "frame": "storyboard_frames/frame_03_r1c3.png",
+   "beat": "8-12s",
+   "panel": "'Jaune / Jau-ne' - sun, sunflowers, yellow ducklings, bee",
+   "narration": "Jaune... jaune means yellow! Sunny, like the sun and the ducklings!",
+   "motion": "The smiling sun pulses warmly and sends out soft light rays, the sunflower heads sway in a light breeze, the ducklings waddle in a row and a bumblebee loops around them. Slow push-in, keep the big word 'Jaune' on screen.",
+   "narration_seconds": 5.616
+  },
+  {
+   "id": 4,
+   "frame": "storyboard_frames/frame_04_r2c1.png",
+   "beat": "12-16s",
+   "panel": "'Vert' - smiling frogs on a lily pad, a turtle, wood sign 'La nature c'est magique'",
+   "narration": "Vert... vert is green! Frogs, leaves and turtles!",
+   "motion": "The big smiling green frog blinks and hops lightly on the lily pad, the tiny frog copies him, the turtle slowly turns its head, water ripples spread and leaves sway. Slow push-in, keep the word 'Vert' and the wooden sign on screen.",
+   "narration_seconds": 5.016
+  },
+  {
+   "id": 5,
+   "frame": "storyboard_frames/frame_05_r2c2.png",
+   "beat": "16-20s",
+   "panel": "'Bleu' - whale spouting, bluebirds, blue balloon, sailboat, sign 'Un monde plus doux'",
+   "narration": "Bleu... bleu means blue! The sea, the whale, the sky!",
+   "motion": "The whale rises and spouts water in a sparkling arc, the two bluebirds flit around the balloon, the balloon bobs, the sailboat glides on the waves. Slow push-in, keep the word 'Bleu' and the small sign on screen.",
+   "narration_seconds": 4.992
+  },
+  {
+   "id": 6,
+   "frame": "storyboard_frames/frame_06_r2c3.png",
+   "beat": "20-24s",
+   "panel": "'Violet / Vio-let' - purple butterfly, lavender field, violets, basket of grapes",
+   "narration": "Violet... violet is purple! Butterflies and flowers!",
+   "motion": "The big purple butterfly slowly opens and closes its wings and flutters upward, the lavender stalks sway, little sparkles drift around the flowers, a few grapes roll in the basket. Slow push-in, keep the word 'Violet' and the framed text on screen.",
+   "narration_seconds": 3.912
+  },
+  {
+   "id": 7,
+   "frame": "storyboard_frames/frame_07_r3c1.png",
+   "beat": "24-28s",
+   "panel": "'Orange / O-range' - fox, pumpkins, carrots, clownfish in a bowl, sign 'De la joie dans chaque couleur'",
+   "narration": "Orange... orange! Foxes, pumpkins and carrots!",
+   "motion": "The little fox tilts its head and its fluffy tail swishes, autumn leaves swirl past, the clownfish swims in circles inside the bowl, the pumpkin stays still in the leaves. Slow push-in, keep the word 'Orange' and the wooden sign on screen.",
+   "narration_seconds": 4.752
+  },
+  {
+   "id": 8,
+   "frame": "storyboard_frames/frame_08_r3c2.png",
+   "beat": "28-34s",
+   "panel": "Quiz: 'Quelle est cette couleur ?' purple paint splash with question marks, buttons Rouge / Violet / Vert",
+   "narration": "Wait... quelle est cette couleur? ... Violet! Yes, well done!",
+   "motion": "The big purple paint splash wobbles and drips playfully, the question marks bob up and down, then the 'Violet' button pops and glows as if pressed while the other two buttons stay still. Static friendly camera, tiny push-in, keep all button text exactly as it is.",
+   "narration_seconds": 5.28
+  },
+  {
+   "id": 9,
+   "frame": "storyboard_frames/frame_09_r3c3.png",
+   "beat": "34-40s",
+   "panel": "Outro: boy and puppy cheering, confetti, rainbow, sign 'Apprendre aujourd'hui un monde plus colore demain'",
+   "narration": "Bravo! Tu connais les couleurs - you know your colours! A bientot!",
+   "motion": "The boy and the puppy jump and cheer with arms and paws up, confetti bursts upward and flutters down, the rainbow arcs brightly behind them. Gentle slow pull-back, keep the sign text on screen.",
+   "narration_seconds": 5.712
+  }
+ ]
+}
